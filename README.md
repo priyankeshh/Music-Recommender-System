@@ -5,12 +5,8 @@ This project involves building a music recommender system using Python and vario
 ## Project Overview
 The main goal of this project is to recommend similar songs to a user-selected song, enhancing the music discovery experience. By analyzing song features and utilizing the Spotify API, the system identifies and recommends tracks that match the user's musical preferences.
 
-## Files Included
-- `app.py`: The Python script that runs the Streamlit application for the recommender system.
-- `model_training.ipynb`: Jupyter Notebook file for training the model and preprocessing the data.
-- `df.pkl`: Pickle file containing the serialized music data.
-- `similarity.pkl`: Pickle file containing the serialized similarity matrix for song recommendations.
-- `README.md` (this file): Provides an overview of the project and instructions for running the application.
+## Dataset
+The dataset used in this project is too large to be uploaded to GitHub directly. You can download the dataset file from [Here](https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset).
 
 ## Requirements
 To run the code in the Streamlit application, you will need the following Python libraries installed:
